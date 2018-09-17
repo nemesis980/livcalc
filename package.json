@@ -1,0 +1,15 @@
+{
+  "name": "livcalc",
+  "version": "1.0.0",
+  "description": "kalkulator isplativosti i pragova rentabilnosti",
+  "main": "livcalc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calc",
+    "liv"
+  ],
+  "author": "nms",
+  "license": "ISC"
+}
