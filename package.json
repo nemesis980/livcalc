@@ -11,5 +11,13 @@
     "liv"
   ],
   "author": "nms",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@angular/cli": "^6.2.2",
+    "angular": "^1.7.4",
+    "npm": "^6.4.1",
+    "plotly": "^1.0.6",
+    "react": "^16.5.2",
+    "restify": "^7.2.1"
+  }
 }
