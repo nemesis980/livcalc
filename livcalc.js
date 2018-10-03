@@ -16,6 +16,10 @@ console.log('hello livcalc');
 		var NDA;
 		var legal;
 
+
+function calculate(){
+}
+
 class cBackerNode {
 	constructor (){
 		this.proizvod;
@@ -27,9 +31,50 @@ class cBackerNode {
 		this.legal;
 	}
 };
+
 class cModel {
 	constructor(){
 		var backerModel;
 		var designModel;
 	}
-}
+};
+class cProizvod{
+	construtor(){
+
+	}
+};
+class cPitchElement{
+	constructor(){
+
+	}
+};
+class cPerks{
+	constructor(){
+		
+	}
+};
+class cModelPrice{
+	constructor(){
+		
+	}
+};
+class cNDA{
+	constructor(){
+		
+	}
+};
+class cLegal{
+	constructor(){
+		
+	}
+};
+class cBackerModel{
+	constructor(){
+		
+	}
+};
+class cDesignModel{
+	constructor(){
+
+	}
+};
